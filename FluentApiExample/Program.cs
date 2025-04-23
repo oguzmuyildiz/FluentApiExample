@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using FluentApiExample;
+﻿using FluentApiExample;
 
 var senderResult = FluentEmailSender.CreateSender(config =>
 {
